@@ -1,0 +1,4 @@
+1. numeros :: Completada
+2. tarea 1 :: Completada
+3. tarea 2 :: Completada
+4. tarea 1 :: Pendiente

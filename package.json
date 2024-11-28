@@ -7,5 +7,10 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^12.1.0",
+    "uuid": "^11.0.3"
+  }
 }
